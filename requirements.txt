@@ -1,0 +1,6 @@
+streamlit>=1.20
+deep-translator>=1.9.7
+indic-transliteration>=1.6.2
+aksharamukha>=0.4.1
+gTTS>=2.3.0
+requests>=2.28.0
